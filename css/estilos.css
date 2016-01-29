@@ -1,0 +1,3748 @@
+.div1-div1 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 80px;
+    left: 0px;
+    position: fixed;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width:100%;
+    z-index: 999;
+    perspective-origin: 631.5px 40px;
+    transform-origin: 631.5px 40px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: box-shadow 0.25s cubic-bezier(1, 0, 0, 1) 0s;
+  box-shadow: 0 4px 5px rgba(0,0,0,0.2);
+}
+
+.algo:hover{
+    color: #6ab344;
+}
+
+.div1-div2 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 80px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 40px;
+    transform-origin: 631.5px 40px;
+    outline: rgb(33, 33, 33) none 0px;
+}
+
+.div1-div3 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    float: left;
+    height: 80px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 164px;
+    perspective-origin: 82px 40px;
+    transform-origin: 82px 40px;
+    
+}
+
+.div5 {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    height: auto;
+    min-height: 18px;
+    min-width: 18px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: top;
+    width: auto;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+.imag{
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 28px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 140px;
+    perspective-origin: 70px 14px;
+    transform-origin: 70px 14px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#IMG_9*/
+
+
+.ol1{
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    float: right;
+    height: 80px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 462.078px;
+    perspective-origin: 231.031px 40px;
+    transform-origin: 231.031px 40px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 40px 0px 0px;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px;
+    transition: opacity 0.6s ease-out 0.3s;
+}/*#OL_12*/
+
+.li1{
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    float: left;
+    height: 80px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 119.906px;
+    perspective-origin: 59.9531px 40px;
+    transform-origin: 59.9531px 40px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 0px 1px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#LI_13*/
+
+.span2 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: inline-block;
+    height: 5px;
+    letter-spacing: 0.5px;
+    opacity: 0.9;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 10px;
+    z-index: 0;
+    perspective-origin: 5px 2.5px;
+    transform-origin: 5px 2.5px;
+    border-top: 5px solid rgb(117, 117, 117);
+    border-right: 5px solid rgba(0, 0, 0, 0);
+    border-bottom: 0px none rgb(117, 117, 117);
+    border-left: 5px solid rgba(0, 0, 0, 0);
+    margin: -3px 0px 0px 4px;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+}
+
+
+.li32 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    float: left;
+    height: 80px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 109.063px;
+    perspective-origin: 54.5313px 40px;
+    transform-origin: 54.5313px 40px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 0px 1px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#LI_32*/
+
+.a33{
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 80px;
+    letter-spacing: 0.5px;
+    position: relative;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 109.063px;
+    perspective-origin: 54.5313px 40px;
+    transform-origin: 54.5313px 40px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 500 normal 14px / 18px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 32px 16px;
+    transition: border-bottom 0.15s ease-in 0s, color 0.15s ease-in 0s;
+}/*#A_33*/
+
+.li51 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    float: left;
+    height: 80px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 67.4844px;
+    perspective-origin: 33.7344px 40px;
+    transform-origin: 33.7344px 40px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 1px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#LI_51*/
+
+
+.li53 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    float: left;
+    height: 80px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 58.0625px;
+    perspective-origin: 29.0313px 40px;
+    transform-origin: 29.0313px 40px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 1px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#LI_53*/
+
+
+
+.li55 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    float: left;
+    height: 80px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 90.5625px;
+    perspective-origin: 45.2813px 40px;
+    transform-origin: 45.2813px 40px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 0px 1px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#LI_55*/
+
+.a56{
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 80px;
+    letter-spacing: 0.5px;
+    position: relative;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 90.5625px;
+    perspective-origin: 45.2813px 40px;
+    transform-origin: 45.2813px 40px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 500 normal 14px / 18px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 32px 16px;
+    transition: border-bottom 0.15s ease-in 0s, color 0.15s ease-in 0s;
+}/*#A_56*/
+
+#UL_58 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    display: none;
+    float: left;
+    height: auto;
+    min-width: 260px;
+    position: absolute;
+    right: 0px;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 70px;
+    width: auto;
+
+    z-index: 12;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box padding-box;
+    border: 0px none rgb(117, 117, 117);
+    border-radius: 0 0 2px 2px;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 8px 0px;
+    transition: transform 0.7s cubic-bezier(0.19, 1, 0.22, 1) 0.01s, margin-top 0.8s cubic-bezier(0.95, 0.05, 0.795, 0.035) 0.61s, margin-left 0.7s cubic-bezier(0.95, 0.05, 0.795, 0.035) 0.51s;
+}/*#UL_58*/
+
+#LI_59, #LI_62, #LI_64, #LI_66 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    height: auto;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#LI_59, #LI_62, #LI_64, #LI_66*/
+
+
+#LI_61 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    height: 1px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(220, 220, 220) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 11px 0px;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+}/*#LI_61*/
+
+
+.div68 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    float: right;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 40px;
+    perspective-origin: 20px 0px;
+    transform-origin: 20px 0px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_68*/
+
+.form69 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 80px;
+    position: absolute;
+    right: 24px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 16px;
+    perspective-origin: 8px 40px;
+    transform-origin: 8px 40px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: width 0.3s ease-out 0.3s;
+}/*#FORM_69*/
+
+.div70 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 16px;
+    position: absolute;
+    right: 0px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    top: 40px;
+    width: 16px;
+    z-index: 0;
+    perspective-origin: 8px 8px;
+    transform: matrix(1, 0, 0, 1, 0, -10.4);
+    transform-origin: 8px 8px;
+    border: 2px solid rgb(117, 117, 117);
+    border-radius: 16px 16px 16px 16px;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: height 0.3s ease-out 0.3s, margin 0.3s ease-out 0.6s;
+}/*#DIV_70*/
+
+.label71 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: none;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#LABEL_71*/
+
+.input72 {
+    color: rgb(117, 117, 117);
+    display: block;
+    height: 12px;
+    left: 0px;
+    opacity: 0;
+    position: absolute;
+    speak: none;
+    top: 0px;
+    width: 12px;
+    z-index: 0;
+    perspective-origin: 6px 6px;
+    transform-origin: 6px 6px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    border-radius: 16px 16px 16px 16px;
+    font: normal normal normal normal 16px / normal Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 0px 1.79688px 0px 0.59375px;
+    transition: opacity 0.3s ease-out 0.15s;
+}/*#INPUT_72*/
+
+.div73 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 13px;
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 14px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    top: 6px;
+    width: 13px;
+    z-index: 20;
+    perspective-origin: 6.5px 6.5px;
+    transform: matrix(1, 0, 0, 1, 0, -6.5);
+    transform-origin: 6.5px 6.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: opacity 0.3s ease-out 0s;
+}/*#DIV_73*/
+
+
+.div74 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 8px;
+    left: 9px;
+    position: absolute;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    top: 12px;
+    width: 8px;
+    perspective-origin: 4px 4px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: height 0.3s ease-out 0.6s;
+}/*#DIV_74*/
+
+.div75 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 12px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 4px;
+    z-index: 0;
+    perspective-origin: 1px 2px;
+    transform: matrix(0.707107, -0.707107, 0.707107, 0.707107, 0, 0);
+    background: rgb(117, 117, 117) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    border-radius: 4px 4px 4px 4px;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_75*/
+
+.div76 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 80px;
+    left: -16px;
+    position: absolute;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    top: -32px;
+    vertical-align: top;
+    width: 48px;
+    perspective-origin: 24px 40px;
+    transform-origin: 24px 40px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_76*/
+
+/*aqui comienza lo demas de estilos*/
+
+
+
+.div {
+   
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: auto;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 1933.5px;
+    transform-origin: 631.5px 1933.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+   
+}
+
+#DIV_3 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 3545px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 1772.5px;
+    transform-origin: 631.5px 1772.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_3*/
+
+#DIV_4, #DIV_5 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 635px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 317.5px;
+    transform-origin: 631.5px 317.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_4, #DIV_5*/
+
+#DIV_6 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 550px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 275px;
+    transform-origin: 631.5px 275px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+}/*#DIV_6*/
+
+#DIV_7 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 550px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 275px;
+    transform-origin: 631.5px 275px;
+    background: rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+      
+}/*#DIV_7*/
+
+
+#DIV_8 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 550px;
+    left: 0px;
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 100%;
+    z-index: 0;
+    perspective-origin: 631.5px 275px;
+    transform-origin: 631.5px 275px;
+    background: rgb(0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: opacity 0.19s ease 0s;
+}/*#DIV_8*/
+
+#DIV_9 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    pointer-events: none;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 0px;
+    transform-origin: 631.5px 0px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_9*/
+
+#DIV_10 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 55px;
+    pointer-events: all;
+    position: absolute;
+    right: 44px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    top: 24px;
+    width: 48px;
+    z-index: 12;
+    perspective-origin: 24px 27.5px;
+    transform-origin: 24px 27.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_10*/
+
+#SPAN_11 {
+    background-position: 0px -1301px;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    display: inline-block;
+    height: 48px;
+    pointer-events: all;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 48px;
+    perspective-origin: 24px 24px;
+    transform-origin: 24px 24px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/nav-s5862008dda.png") no-repeat scroll 0px -1301px / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+}/*#SPAN_11*/
+
+#DIV_12, #DIV_101 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 550px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    z-index: 3;
+    perspective-origin: 631.5px 275px;
+    transform-origin: 631.5px 275px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+   
+}/*#DIV_12, #DIV_101*/
+
+
+#DIV_14, #DIV_203 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 0px;
+    transform-origin: 631.5px 0px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_14, #DIV_203*/
+
+#DIV_13 {
+    background-position: 50% 100%;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 644.125px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    z-index: 1;
+    perspective-origin: 631.5px 322.063px;
+    transform-origin: 631.5px 322.063px;
+    background: rgba(0, 0, 0, 0) none no-repeat scroll 50% 100% / cover padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 0px 644.125px;
+    background-image: url(/imag/back.jpg);
+}/*#DIV_13*/
+
+#DIV_18 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    height: 126px;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    top: 104.5px;
+    width: 1263px;
+    perspective-origin: 631.5px 63px;
+    transform-origin: 631.5px 63px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    background-image: url("/static/img/home/header-slides/version-1600.jpg");
+}/*#DIV_18*/
+
+#P_20 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 24px;
+    speak: none;
+    text-align: center;
+    width: 1263px;
+    perspective-origin: 631.5px 12px;
+    transform-origin: 631.5px 12px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 24px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#P_20*/
+
+#SPAN_21 {
+    box-sizing: border-box;
+    color: rgb(70, 135, 59);
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 90.5313px;
+    perspective-origin: 45.2656px 8px;
+    transform-origin: 45.2656px 8px;
+    border: 0px none rgb(70, 135, 59);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(70, 135, 59) none 0px;
+}/*#SPAN_21*/
+
+#DIV_22 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 550px;
+    opacity: 0;
+    position: absolute;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    z-index: 1;
+    perspective-origin: 631.5px 275px;
+    transform-origin: 631.5px 275px;
+    background: rgb(235, 235, 236) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: opacity 0.75s ease-in-out 0s;
+}/*#DIV_22*/
+
+#A_23 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 0px;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 0px;
+    transform-origin: 631.5px 0px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_23*/
+
+#DIV_24 {
+    background-position: 60% 100%;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 550px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 275px;
+    transform-origin: 631.5px 275px;
+    background: rgb(238, 238, 238) url("http://www.android.com/static/img/home/header-slides/nexus-1600.jpg") no-repeat scroll 60% 100% / cover padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_24*/
+
+#DIV_26 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    height: 184px;
+    left: 101.031px;
+    position: absolute;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 66px;
+    width: 265.219px;
+    perspective-origin: 132.609px 92px;
+    transform-origin: 132.609px 92px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#DIV_26*/
+
+#H2 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 96px;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    width: 265.219px;
+    perspective-origin: 132.609px 48px;
+    transform-origin: 132.609px 48px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 40px / 48px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 16px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#H2_27*/
+
+
+
+#H2_19 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 38px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 19px;
+    transform-origin: 631.5px 19px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 40px / 38px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 16px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#H2_19*/
+
+
+#H2_40 {
+    box-sizing: border-box;
+    color: rgb(118, 119, 119);
+    cursor: pointer;
+    height: 64px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 32px;
+    transform-origin: 631.5px 32px;
+    border: 0px none rgb(118, 119, 119);
+    font: normal normal 300 normal 30px / 32px 'And Black', Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 16px;
+    outline: rgb(118, 119, 119) none 0px;
+}/*#H2_40*/
+
+H2 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 48px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    perspective-origin: 522px 24px;
+    transform-origin: 522px 24px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 40px / 48px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 16px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#H2_60, #H2_111*/
+
+#H2_105 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 48px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    perspective-origin: 522px 24px;
+    transform-origin: 522px 24px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal 300 normal 40px / 48px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 16px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#H2_105*/
+
+
+#P_28 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 24px;
+    speak: none;
+    text-align: left;
+    width: 265.219px;
+    perspective-origin: 132.609px 12px;
+    transform-origin: 132.609px 12px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 24px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#P_28*/
+
+#SPAN_29 {
+    box-sizing: border-box;
+    color: rgb(143, 191, 79);
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 76.4063px;
+    perspective-origin: 38.2031px 8px;
+    transform-origin: 38.2031px 8px;
+    border: 0px none rgb(143, 191, 79);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(143, 191, 79) none 0px;
+}/*#SPAN_29*/
+
+#DIV_30 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 100px;
+    position: absolute;
+    right: 113.656px;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 121px;
+    width: 252.594px;
+    perspective-origin: 126.297px 50px;
+    transform-origin: 126.297px 50px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_30*/
+
+#A_31 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 0px;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    width: 252.594px;
+    perspective-origin: 126.297px 0px;
+    transform-origin: 126.297px 0px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_31*/
+
+#A_32 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_32*/
+
+#SPAN_33 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    display: block;
+    height: 72px;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    width: 252.594px;
+    perspective-origin: 126.297px 36px;
+    transform-origin: 126.297px 36px;
+    border: 0px none rgb(33, 33, 33);
+    font: italic normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#SPAN_33*/
+
+
+#SPAN_34 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 24px;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    width: 252.594px;
+    perspective-origin: 126.297px 12px;
+    transform-origin: 126.297px 12px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 4px 0px 0px;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#SPAN_34*/
+
+#DIV_35 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 550px;
+    opacity: 0;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    z-index: 1;
+    perspective-origin: 631.5px 275px;
+    transform-origin: 631.5px 275px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: opacity 0.75s ease-in-out 0s;
+}/*#DIV_35*/
+
+#A_36 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 550px;
+    speak: none;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 275px;
+    transform-origin: 631.5px 275px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_36*/
+
+#DIV_37 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    height: 550px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 275px;
+    transform-origin: 631.5px 275px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#DIV_37*/
+
+#DIV_38 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    height: 530px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 265px;
+    transform-origin: 631.5px 265px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    overflow: auto;
+}/*#DIV_38*/
+
+#IMG_39 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 36px;
+    max-width: 100%;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 60px;
+    perspective-origin: 30px 18px;
+    transform-origin: 30px 18px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 35px 601.5px 5px;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#IMG_39*/
+
+
+#BR_41 {
+    box-sizing: border-box;
+    color: rgb(118, 119, 119);
+    cursor: pointer;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    border: 0px none rgb(118, 119, 119);
+    font: normal normal 300 normal 30px / 32px 'And Black', Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(118, 119, 119) none 0px;
+}/*#BR_41*/
+
+#P_42 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    speak: none;
+    text-align: center;
+    width: 1263px;
+    perspective-origin: 631.5px 0px;
+    transform-origin: 631.5px 0px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 24px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#P_42*/
+
+#IMG_43 {
+    background-position: 50% 50%;
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 360px;
+    max-width: 768px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 768px;
+    perspective-origin: 384px 180px;
+    transform-origin: 384px 180px;
+    background: rgba(0, 0, 0, 0) none no-repeat scroll 50% 50% / contain padding-box border-box;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 247.5px;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#IMG_43*/
+
+#SPAN_44 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 1263px;
+    perspective-origin: 631.5px 8px;
+    transform-origin: 631.5px 8px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    margin: -10px 0px 0px;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#SPAN_44*/
+
+#DIV_45 {
+    bottom: -28px;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 56px;
+    position: absolute;
+    right: 252.594px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 56px;
+    z-index: 10;
+    perspective-origin: 28px 28px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    transform-origin: 28px 28px;
+    background: rgb(100, 255, 218) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    border-radius: 28px 28px 28px 28px;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: opacity 0.4s ease-in-out 0s;
+    overflow: auto;
+}/*#DIV_45*/
+
+
+
+#SPAN_46 {
+    background-position: 0px 0px;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 16px;
+    perspective-origin: 8px 8px;
+    transform-origin: 8px 8px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/bluegrey-900-saf2be3b5f0.png") no-repeat scroll 0px 0px / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 21px 0px 0px;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+}/*#SPAN_46*/
+
+#DIV_47 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 85px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width:100%;
+    z-index: auto;
+    perspective-origin: 631.5px 42.5px;
+    transform-origin: 631.5px 42.5px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px none rgb(33, 33, 33);
+    border-right: 0px none rgb(33, 33, 33);
+    border-bottom: 1px solid rgb(220, 220, 220);
+    border-left: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 30px 0px;
+}
+
+#SPAN_48, #SPAN_56, #SPAN_201 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    vertical-align: middle;
+    width: 16px;
+    perspective-origin: 8px 8px;
+    transform-origin: 8px 8px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 12px 3px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#SPAN_48, #SPAN_56, #SPAN_195, #SPAN_201*/
+
+#SPAN_49{
+    background-position: 0px -28px;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    display: inline-block;
+    height: 13px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 13px;
+    perspective-origin: 6.5px 6.5px;
+    transform-origin: 6.5px 6.5px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/green-s152762af05.png") no-repeat scroll 0px -28px / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+}
+
+#DIV_50, #DIV_52, #DIV_54, #DIV_197, #DIV_199 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: inline-block;
+    height: 16px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    vertical-align: middle;
+    width: 16px;
+    perspective-origin: 8px 8px;
+    transform-origin: 8px 8px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 12px;
+    outline: rgb(33, 33, 33) none 0px;
+}
+
+#DIV_51, #DIV_198 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 16px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-indent: 200%;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    white-space: nowrap;
+    width: 16px;
+    z-index: 2;
+    perspective-origin: 8px 8px;
+    transform-origin: 8px 8px;
+    background: rgb(106, 179, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    border-radius: 12px 12px 12px 12px;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+    transition: background-color 0.25s ease-in-out 0s;
+}/*#DIV_51, #DIV_198*/
+
+#DIV_53, #DIV_55, #DIV_200 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    height: 16px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-indent: 200%;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    white-space: nowrap;
+    width: 16px;
+    z-index: 2;
+    perspective-origin: 8px 8px;
+    transform-origin: 8px 8px;
+    background: rgb(220, 220, 220) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    border-radius: 12px 12px 12px 12px;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+    transition: background-color 0.25s ease-in-out 0s;
+}/*#DIV_53, #DIV_55, #DIV_200*/
+
+#SPAN_57, #SPAN_202 {
+    background-position: 0px -41px;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    display: inline-block;
+    height: 13px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 13px;
+    perspective-origin: 6.5px 6.5px;
+    transform-origin: 6.5px 6.5px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/green-s152762af05.png") no-repeat scroll 0px -41px / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+}/*#SPAN_57, #SPAN_202*/
+
+#DIV_58 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 256px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 128px;
+    transform-origin: 631.5px 128px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_58*/
+
+#DIV_59 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 256px;
+    max-width: 1044px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    perspective-origin: 522px 128px;
+    transform-origin: 522px 128px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 109.5px;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 80px 0px 24px;
+}/*#DIV_59*/
+
+
+
+#P_61 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 72px;
+    speak: none;
+    text-align: center;
+    width: 520.953px;
+    perspective-origin: 260.469px 36px;
+    transform-origin: 260.469px 36px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 261.531px 16px 261.516px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#P_61*/
+
+#DIV_62 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 543px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    z-index: 1;
+    perspective-origin: 631.5px 271.5px;
+    transform-origin: 631.5px 271.5px;
+    /*border: 0px none rgb(33, 33, 33);*/
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_62*/
+
+#DIV_63 {
+    display: block;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 543px;
+    max-width: 1044px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    perspective-origin: 522px 271.5px;
+    transform-origin: 522px 271.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 109.5px;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 0px 85px;
+}/*#DIV_63*/
+
+#DIV_64 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: table;
+    width: auto;
+    max-width: 1500px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    z-index: 4;
+    perspective-origin: 522px 229px;
+    transform-origin: 522px 229px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_64*/
+
+
+
+#IMG_68 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 101px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 108px;
+    z-index: 10;
+    perspective-origin: 54px 50.5px;
+    transform-origin: 54px 50.5px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: opacity 0.2s ease-out 0.2s;
+}/*#IMG_68*/
+
+
+
+
+#IMG_72 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 100px;
+    left: -10px;
+    max-width: 61%;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 65.875px;
+    z-index: 0;
+    perspective-origin: 32.9375px 50px;
+    transform: matrix(1, 0, 0, 1, 53.79, 0);
+    transform-origin: 32.9375px 50px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: all 0.2s ease-out 0s;
+}/*#IMG_72*/
+
+#DIV_100 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 750px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 375px;
+    transform-origin: 631.5px 375px;
+    background: rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+    background-image: url(/imag/wear3-1600.png);
+}/*#DIV_100*/
+
+#DIV_103 {
+    bottom: 0px;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 200px;
+    left: 0px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    z-index: 2;
+    perspective-origin: 631.5px 100px;
+    transform-origin: 631.5px 100px;
+    background: rgb(69, 90, 100) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 24px;
+}/*#DIV_103*/
+
+#DIV_104 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 152px;
+    max-width: 1044px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    perspective-origin: 522px 76px;
+    transform-origin: 522px 76px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 85.5px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_104*/
+
+
+
+#P_106 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 52px;
+    max-width: 800px;
+    min-width: 400px;
+    speak: none;
+    width: 800px;
+    perspective-origin: 400px 26px;
+    transform-origin: 400px 26px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal 300 normal 20px / 26px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 12px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_106*/
+
+#A_107 {
+    box-sizing: border-box;
+    color: rgb(100, 255, 218);
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 134.828px;
+    perspective-origin: 67.4063px 8px;
+    transform-origin: 67.4063px 8px;
+    border: 0px none rgb(100, 255, 218);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(100, 255, 218) none 0px;
+}/*#A_107*/
+
+#SPAN_108 {
+    background-position: 0px -32px;
+    box-sizing: border-box;
+    color: rgb(100, 255, 218);
+    cursor: pointer;
+    display: inline-block;
+    height: 13px;
+    letter-spacing: 0.5px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    vertical-align: -1px;
+    white-space: nowrap;
+    width: 8px;
+    perspective-origin: 4px 6.5px;
+    transform-origin: 4px 6.5px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/teal-a200-s9daf970743.png") no-repeat scroll 0px -32px / auto padding-box border-box;
+    border: 0px none rgb(100, 255, 218);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 4.2px;
+    outline: rgb(100, 255, 218) none 0px;
+    overflow: hidden;
+}/*#SPAN_108*/
+
+#DIV_109 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 630px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 315px;
+    transform-origin: 631.5px 315px;
+    border-top: 0px none rgb(33, 33, 33);
+    border-right: 0px none rgb(33, 33, 33);
+    border-bottom: 1px solid rgb(220, 220, 220);
+    border-left: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_109*/
+
+#DIV_110 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 240px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    z-index: 2;
+    perspective-origin: 522px 120px;
+    transform-origin: 522px 120px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 109.5px;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 80px 0px 0px;
+}/*#DIV_110*/
+
+#P_112 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 48px;
+    speak: none;
+    text-align: center;
+    width: 520.953px;
+    perspective-origin: 260.469px 24px;
+    transform-origin: 260.469px 24px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 261.531px 24px 261.516px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#P_112*/
+
+#P_113 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 24px;
+    speak: none;
+    text-align: center;
+    width: 520.953px;
+    perspective-origin: 260.469px 12px;
+    transform-origin: 260.469px 12px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 261.531px 16px 261.516px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#P_113*/
+
+#A_114 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    speak: none;
+    text-align: center;
+    text-decoration: none;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: color 0.2s ease-in 0s;
+}/*#A_114*/
+
+#IMG_115 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    height: 373px;
+    min-width: 960px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    z-index: 0;
+    perspective-origin: 631.5px 186.5px;
+    transform: matrix(1, 0, 0, 1, -631.5, 0);
+    transform-origin: 631.5px 186.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 631.5px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#IMG_115*/
+
+#DIV_116 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 731px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 365.5px;
+    transform-origin: 631.5px 365.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_116*/
+
+#DIV_117 {
+    text-align: right;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 168px;
+    max-width: 1044px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    perspective-origin: 522px 84px;
+    transform-origin: 522px 84px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 109.5px;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 80px 0px 24px;
+}/*#DIV_117*/
+
+
+
+#DIV_119, #DIV_120 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 563px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    perspective-origin: 631.5px 281.5px;
+    transform-origin: 631.5px 281.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_119, #DIV_120*/
+
+#DIV_121 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 478px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 239px;
+    transform-origin: 631.5px 239px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_121*/
+
+#DIV_122 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 478px;
+    position: absolute;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    z-index: 3;
+    perspective-origin: 631.5px 239px;
+    transform-origin: 631.5px 239px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: opacity 0.75s ease-in-out 0s;
+}/*#DIV_122*/
+
+#DIV_123, #DIV_159 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 478px;
+    max-width: 1044px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    perspective-origin: 522px 239px;
+    transform-origin: 522px 239px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 109.5px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_123, #DIV_159*/
+
+
+ #DIV_160 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 478px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    perspective-origin: 522px 239px;
+    transform-origin: 522px 239px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_124, #DIV_160*/
+
+
+
+#DIV_125, #DIV_161 {
+    color: rgb(33, 33, 33);
+    float: left;
+    height: 478px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 171.984px 239px;
+    transform-origin: 171.984px 239px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 12px 0px 0px;
+}/*#DIV_125, #DIV_161*/
+
+#FIGURE_126, #FIGURE_137, #FIGURE_148, #FIGURE_162, #FIGURE_173, #FIGURE_184 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 478px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    
+    z-index: 1;
+    perspective-origin: 165.984px 239px;
+    transform-origin: 165.984px 239px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: transform 0.7s cubic-bezier(0.19, 1, 0.22, 1) 0.01s, margin-top 0.8s cubic-bezier(0.95, 0.05, 0.795, 0.035) 0.61s, margin-left 0.7s cubic-bezier(0.95, 0.05, 0.795, 0.035) 0.51s;
+    
+    
+    
+}
+
+#FIGURE_126:after, #FIGURE_137:after, #FIGURE_148:after, #FIGURE_162:after, #FIGURE_173:after, #FIGURE_184:after {
+    box-shadow: rgb(0, 0, 0) 0px 4px 4px 0px;
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    content: '"' '"';
+    display: block;
+    height: 478px;
+    left: 0px;
+    opacity: 0.25;
+    position: absolute;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 331.984px;
+  
+    z-index: -1;
+    perspective-origin: 165.984px 239px;
+    transform-origin: 165.984px 239px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/transparent.gif") repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: all 0.7s cubic-bezier(0.19, 1, 0.22, 1) 0.01s;
+}/*#FIGURE_126:after, #FIGURE_137:after, #FIGURE_148:after, #FIGURE_162:after, #FIGURE_173:after, #FIGURE_184:after*/
+
+#DIV_127, #DIV_138, #DIV_149, #DIV_163, #DIV_174, #DIV_185 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 478px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 239px;
+    transform-origin: 165.984px 239px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_127, #DIV_138, #DIV_149, #DIV_163, #DIV_174, #DIV_185*/
+
+#DIV_128, #DIV_139, #DIV_150, #DIV_164, #DIV_175, #DIV_186 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 229.063px;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 114.531px;
+    transform-origin: 165.984px 114.531px;
+    background: rgb(245, 245, 245) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+    padding: 0px 0px 229.063px;
+}
+
+#IMG_1 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    height: 231px;
+    max-width: 100%;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 115.5px;
+    transform-origin: 165.984px 115.5px;
+    border: 0px none rgb(33, 33, 33);
+    border-radius: 2px 2px 0 0;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#IMG_129, #IMG_140, #IMG_151, #IMG_165, #IMG_176, #IMG_187*/
+
+#FIGCAPTION_130, #FIGCAPTION_141, #FIGCAPTION_188 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 223px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 111.5px;
+    transform-origin: 165.984px 111.5px;
+    border-top: 1px solid rgb(220, 220, 220);
+    border-right: 0px none rgb(33, 33, 33);
+    border-bottom: 0px none rgb(33, 33, 33);
+    border-left: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#FIGCAPTION_130, #FIGCAPTION_141, #FIGCAPTION_188*/
+
+#DIV_131, #DIV_142, #DIV_189 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 222px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 111px;
+    transform-origin: 165.984px 111px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 24px;
+}/*#DIV_131, #DIV_142, #DIV_189*/
+
+#H3_132, #H3_143, #H3_154, #H3_190 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 26px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 283.984px;
+    perspective-origin: 141.984px 13px;
+    transform-origin: 141.984px 13px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal normal normal 20px / 26px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 12px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#H3_132, #H3_143, #H3_154, #H3_190*/
+
+
+#H3_168, #H3_179 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 52px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 283.984px;
+    perspective-origin: 141.984px 26px;
+    transform-origin: 141.984px 26px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal normal normal 20px / 26px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 12px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#H3_168, #H3_179*/
+
+#P_133, #P_144, #P_180, #P_191 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 96px;
+    speak: none;
+    width: 283.984px;
+    perspective-origin: 141.984px 48px;
+    transform-origin: 141.984px 48px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 40px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#P_133, #P_144, #P_180, #P_191*/
+
+#A_134 {
+    bottom: 24px;
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    position: absolute;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 113px;
+    perspective-origin: 56.5px 8px;
+    transform-origin: 56.5px 8px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_134*/
+
+#SPAN_135, #SPAN_146, #SPAN_157, #SPAN_171, #SPAN_182, #SPAN_193 {
+    background-position: 0px -41px;
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: inline-block;
+    height: 13px;
+    letter-spacing: 0.5px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    vertical-align: -1px;
+    white-space: nowrap;
+    width: 13px;
+    perspective-origin: 6.5px 6.5px;
+    transform-origin: 6.5px 6.5px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/green-s152762af05.png") no-repeat scroll 0px -41px / auto padding-box border-box;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 4.2px;
+    outline: rgb(106, 179, 68) none 0px;
+    overflow: hidden;
+}/*#SPAN_135, #SPAN_146, #SPAN_157, #SPAN_171, #SPAN_182, #SPAN_193*/
+
+#DIV_136, #DIV_172 {
+    color: rgb(33, 33, 33);
+    float: left;
+    height: 478px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 177.984px 239px;
+    transform-origin: 177.984px 239px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 12px;
+}/*#DIV_136, #DIV_172*/
+
+#A_145 {
+    bottom: 24px;
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    position: absolute;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 115.734px;
+    perspective-origin: 57.8594px 8px;
+    transform-origin: 57.8594px 8px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_145*/
+
+#DIV_147, #DIV_183 {
+    color: rgb(33, 33, 33);
+    float: left;
+    height: 478px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 171.984px 239px;
+    transform-origin: 171.984px 239px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 0px 0px 12px;
+}/*#DIV_147, #DIV_183*/
+
+#FIGCAPTION_152 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 175px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 87.5px;
+    transform-origin: 165.984px 87.5px;
+    border-top: 1px solid rgb(220, 220, 220);
+    border-right: 0px none rgb(33, 33, 33);
+    border-bottom: 0px none rgb(33, 33, 33);
+    border-left: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#FIGCAPTION_152*/
+
+#DIV_153 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 174px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 87px;
+    transform-origin: 165.984px 87px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 24px;
+}/*#DIV_153*/
+
+#P_155, #P_169 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 48px;
+    speak: none;
+    width: 283.984px;
+    perspective-origin: 141.984px 24px;
+    transform-origin: 141.984px 24px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 40px;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#P_155, #P_169*/
+
+#A_156 {
+    bottom: 24px;
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    position: absolute;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 156.359px;
+    perspective-origin: 78.1719px 8px;
+    transform-origin: 78.1719px 8px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_156*/
+
+#DIV_158 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 478px;
+    opacity: 0;
+    position: absolute;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1263px;
+    z-index: 1;
+    perspective-origin: 631.5px 239px;
+    transform-origin: 631.5px 239px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    transition: opacity 0.75s ease-in-out 0s;
+}/*#DIV_158*/
+
+#FIGCAPTION_166 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 201px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 100.5px;
+    transform-origin: 165.984px 100.5px;
+    border-top: 1px solid rgb(220, 220, 220);
+    border-right: 0px none rgb(33, 33, 33);
+    border-bottom: 0px none rgb(33, 33, 33);
+    border-left: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#FIGCAPTION_166*/
+
+#DIV_167 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 200px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 100px;
+    transform-origin: 165.984px 100px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 24px;
+}/*#DIV_167*/
+
+
+#A_170 {
+    bottom: 24px;
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    position: absolute;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 145.656px;
+    perspective-origin: 72.8281px 8px;
+    transform-origin: 72.8281px 8px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_170*/
+
+#FIGCAPTION_177 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 249px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 124.5px;
+    transform-origin: 165.984px 124.5px;
+    border-top: 1px solid rgb(220, 220, 220);
+    border-right: 0px none rgb(33, 33, 33);
+    border-bottom: 0px none rgb(33, 33, 33);
+    border-left: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#FIGCAPTION_177*/
+
+#DIV_178 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 248px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 331.984px;
+    perspective-origin: 165.984px 124px;
+    transform-origin: 165.984px 124px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 24px;
+}/*#DIV_178*/
+
+#A_181 {
+    bottom: 24px;
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    position: absolute;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 142.781px;
+    perspective-origin: 71.3906px 8px;
+    transform-origin: 71.3906px 8px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_181*/
+
+#A_192 {
+    bottom: 24px;
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    letter-spacing: 0.5px;
+    position: absolute;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 99.5625px;
+    perspective-origin: 49.7813px 8px;
+    transform-origin: 49.7813px 8px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_192*/
+
+#DIV_204 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    height: 322px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 161px;
+    transform-origin: 631.5px 161px;
+    background: rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#DIV_204*/
+
+#UL_205 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    height: 149px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 74.5px;
+    transform-origin: 631.5px 74.5px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 1px;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 64px 45px 45px;
+}/*#UL_205*/
+
+
+
+#LI_206, #LI_211, #LI_216, #LI_221, #LI_226 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    display: inline-block;
+    height: 40px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 56px;
+    perspective-origin: 28px 20px;
+    transform-origin: 28px 20px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#LI_206, #LI_211, #LI_216, #LI_221, #LI_226*/
+
+#DIV_208, #DIV_213, #DIV_218, #DIV_223, #DIV_228 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: inline-block;
+    height: 40px;
+    min-height: 18px;
+    min-width: 18px;
+    position: relative;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    vertical-align: middle;
+    width: 40px;
+    perspective-origin: 20px 20px;
+    transform-origin: 20px 20px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#DIV_208, #DIV_213, #DIV_218, #DIV_223, #DIV_228*/
+
+#DIV_210 {
+    background-position: 50% 50%;
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    height: 40px;
+    left: 0px;
+    opacity: 0.18;
+    position: absolute;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 40px;
+    will-change: opacity;
+    z-index: 0;
+    perspective-origin: 20px 20px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    transform-origin: 20px 20px;
+    background: rgba(0, 0, 0, 0) url("https://www.google.com/images/branding/google_plus/1x/ic_w_post_gplus_black_48dp.png") no-repeat scroll 50% 50% / 48px 48px padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+    transition: opacity 0.15s ease-in 0s;
+}/*#DIV_210*/
+
+#DIV_215 {
+    background-position: 0px -306px;
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    height: 40px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 40px;
+    will-change: opacity;
+    z-index: 0;
+    perspective-origin: 20px 20px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    transform-origin: 20px 20px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/footer-s97b46602f4.png") no-repeat scroll 0px -306px / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+    transition: opacity 0.15s ease-in 0s;
+}/*#DIV_215*/
+
+#DIV_219 {
+    background-position: 0px -32px;
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    height: 40px;
+    left: 0px;
+    opacity: 0;
+    position: absolute;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 40px;
+    will-change: opacity;
+    z-index: 0;
+    perspective-origin: 20px 20px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    transform-origin: 20px 20px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/footer-s97b46602f4.png") no-repeat scroll 0px -32px / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+    transition: opacity 0.15s ease-in 0s;
+}/*#DIV_219*/
+
+#DIV_220 {
+    background-position: 0px -72px;
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    height: 40px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 40px;
+    will-change: opacity;
+    z-index: 0;
+    perspective-origin: 20px 20px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    transform-origin: 20px 20px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/footer-s97b46602f4.png") no-repeat scroll 0px -72px / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+    transition: opacity 0.15s ease-in 0s;
+}/*#DIV_220*/
+
+
+#DIV_225 {
+    background-position: 0px -346px;
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    height: 40px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 40px;
+    will-change: opacity;
+    z-index: 0;
+    perspective-origin: 20px 20px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    transform-origin: 20px 20px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/footer-s97b46602f4.png") no-repeat scroll 0px -346px / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+    transition: opacity 0.15s ease-in 0s;
+}/*#DIV_225*/
+
+#DIV_229 {
+    background-position: 0px -426px;
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    height: 40px;
+    left: 0px;
+    opacity: 0;
+    position: absolute;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 40px;
+    will-change: opacity;
+    z-index: 0;
+    perspective-origin: 20px 20px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    transform-origin: 20px 20px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/footer-s97b46602f4.png") no-repeat scroll 0px -426px / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+    transition: opacity 0.15s ease-in 0s;
+}/*#DIV_229*/
+
+#DIV_230 {
+    background-position: 0px -466px;
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    height: 40px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 40px;
+    will-change: opacity;
+    z-index: 0;
+    perspective-origin: 20px 20px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    transform-origin: 20px 20px;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/footer-s97b46602f4.png") no-repeat scroll 0px -466px / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+    transition: opacity 0.15s ease-in 0s;
+}/*#DIV_230*/
+
+#P_231, #P_232 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    height: 24px;
+    speak: none;
+    width: 100%;
+    perspective-origin: 631.5px 12px;
+    transform-origin: 631.5px 12px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 21px;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 0px 45px;
+}/*#P_231, #P_232*/
+
+#UL_233 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    height: 82px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    perspective-origin: 631.5px 41px;
+    transform-origin: 631.5px 41px;
+    background: rgb(245, 245, 245) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 1px;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 22px 45px;
+}/*#UL_233*/
+
+
+
+#LI_234 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    display: inline-block;
+    height: 30px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 102px;
+    perspective-origin: 51px 15px;
+    transform-origin: 51px 15px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#LI_234*/
+
+#A_235 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 30px;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    width: 92px;
+    perspective-origin: 46px 15px;
+    transform-origin: 46px 15px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 0px 0px;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#A_235*/
+
+#SPAN_236 {
+    background-position: 50% 50%;
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: inline-block;
+    height: 30px;
+    opacity: 0.54;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    vertical-align: middle;
+    width: 92px;
+    z-index: 0;
+    perspective-origin: 46px 15px;
+    transform-origin: 46px 15px;
+    background: rgba(0, 0, 0, 0) url("https://www.google.com/images/branding/googlelogo/1x/googlelogo_dark_color_92x30dp.png") no-repeat scroll 50% 50% / 92px 30px padding-box border-box;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    overflow: hidden;
+}/*#SPAN_236*/
+
+
+#A_238 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    width: 94.5313px;
+    perspective-origin: 47.2656px 19px;
+    transform-origin: 47.2656px 19px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 0px 0px;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 7px 10px;
+}/*#A_238*/
+
+#UL_240, #UL_252 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    display: none;
+    float: left;
+    height: auto;
+    left: 0px;
+    min-width: 260px;
+    position: absolute;
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    top: 100%;
+    width: auto;
+    will-change: margin, transform;
+    z-index: 12;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box padding-box;
+    border: 0px none rgb(117, 117, 117);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 2px 0px 0px;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 8px 0px;
+    transition: transform 0.7s cubic-bezier(0.19, 1, 0.22, 1) 0.01s, margin-top 0.8s cubic-bezier(0.95, 0.05, 0.795, 0.035) 0.61s, margin-left 0.7s cubic-bezier(0.95, 0.05, 0.795, 0.035) 0.51s;
+}/*#UL_240, #UL_252*/
+
+
+
+#LI_241, #LI_243, #LI_245, #LI_247, #LI_253, #LI_255, #LI_257, #LI_259 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    height: auto;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#LI_241, #LI_243, #LI_245, #LI_247, #LI_253, #LI_255, #LI_257, #LI_259*/
+
+#A_242, #A_244, #A_248, #A_254, #A_258 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    display: block;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 8px 24px;
+}/*#A_242, #A_244, #A_248, #A_254, #A_258*/
+
+#A_246, #A_256 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    display: block;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 8px 24px;
+}/*#A_246, #A_256*/
+
+#A_250 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    width: 140px;
+    perspective-origin: 65.8281px 19px;
+    transform-origin: 65.8281px 19px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 0px 0px;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 7px 10px;
+}/*#A_250*/
+
+#A_260 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(33, 33, 33);
+    cursor: pointer;
+    display: block;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 8px 24px;
+}/*#A_260*/
+#A_262 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    width: 48px;
+    perspective-origin:25px 20px;
+    transform-origin: 23.6563px 19px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 0px 0px;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 13px 35px;
+}/*#A_262*/
+
+
+
+#A_264 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    width: 110px;
+    perspective-origin: 52.1875px 19px;
+    transform-origin: 52.1875px 19px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 0px 0px;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 7px 10px;
+}/*#A_264*/
+
+#LI_265 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    display: block;
+    float: right;
+    height: 24px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    vertical-align: middle;
+    width: 260px;
+    perspective-origin: 130px 12px;
+    transform-origin: 130px 12px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 8px 0px 0px;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#LI_265*/
+
+#LABEL_266 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    speak: none;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#LABEL_266*/
+
+#SELECT_267 {
+    height: 21px;
+    speak: none;
+    width: 260px;
+    perspective-origin: 130px 10.5px;
+    transform-origin: 130px 10.5px;
+    border: 0px none rgb(0, 0, 0);
+    font: normal normal normal normal 14px / normal Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    padding: 1px 0px;
+}/*#SELECT_267*/
+
+#OPTION_268, #OPTION_269, #OPTION_271, #OPTION_273, #OPTION_275, #OPTION_277, #OPTION_279, #OPTION_281, #OPTION_283, #OPTION_285, #OPTION_287 {
+    box-sizing: border-box;
+    cursor: default;
+    height: auto;
+    min-height: 16.8px;
+    speak: none;
+    width: auto;
+    align-self: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal normal normal normal 14px / normal Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#OPTION_268, #OPTION_269, #OPTION_271, #OPTION_273, #OPTION_275, #OPTION_277, #OPTION_279, #OPTION_281, #OPTION_283, #OPTION_285, #OPTION_287*/
+
+#OPTION_270, #OPTION_272, #OPTION_276, #OPTION_280, #OPTION_284, #OPTION_288 {
+    box-sizing: border-box;
+    cursor: default;
+    height: auto;
+    min-height: 16.8px;
+    speak: none;
+    width: auto;
+    align-self: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal normal normal normal 14px / normal Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#OPTION_270, #OPTION_272, #OPTION_276, #OPTION_280, #OPTION_284, #OPTION_288*/
+
+#OPTION_274, #OPTION_278, #OPTION_286 {
+    box-sizing: border-box;
+    cursor: default;
+    height: auto;
+    min-height: 16.8px;
+    speak: none;
+    width: auto;
+    align-self: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal normal normal normal 14px / normal Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#OPTION_274, #OPTION_278, #OPTION_286*/
+
+#OPTION_282 {
+    box-sizing: border-box;
+    cursor: default;
+    height: auto;
+    min-height: 16.8px;
+    speak: none;
+    width: auto;
+    align-self: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal normal normal normal 14px / normal Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#OPTION_282*/
+
+#A_289 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 24px;
+    min-width: 16px;
+    position: absolute;
+    right: 32px;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    top: 30px;
+    white-space: nowrap;
+    width: 100.531px;
+    perspective-origin: 50.2656px 12px;
+    transform-origin: 50.2656px 12px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 300 normal 14px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(117, 117, 117) none 0px;
+}/*#A_289*/
+
+#SPAN_293 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: inline-block;
+    height: 18px;
+    min-height: 18px;
+    min-width: 18px;
+   vertical-align: middle;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    white-space: nowrap;
+  width: 18px;
+    perspective-origin: 9px 9px;
+    transform-origin: 9px 9px;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0) url("http://www.android.com/static/img/icons/footer-s97b46602f4.png") 0px -14px;
+}/*#SPAN_293*/
+
+#DIV_294 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 1195px;
+    left: 0px;
+    opacity: 0;
+    pointer-events: none;
+    position: fixed;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 230.141px;
+    will-change: opacity, transform;
+    z-index: 13;
+    perspective-origin: 115.063px 597.5px;
+    transform: matrix(1, 0, 0, 1, -9999, 0);
+    transform-origin: 115.063px 597.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+    transition: opacity 0.15s ease-in 0s, transform 0.15s ease-in 0s;
+}/*#DIV_294*/
+
+#DIV_295 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 1195px;
+    max-width: 320px;
+    pointer-events: none;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 230.141px;
+    perspective-origin: 115.063px 597.5px;
+    transform-origin: 115.063px 597.5px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: auto;
+}/*#DIV_295*/
+
+#DIV_296 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 144px;
+    pointer-events: none;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 230.141px;
+    perspective-origin: 115.063px 72px;
+    transform-origin: 115.063px 72px;
+    background: rgb(106, 179, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 100px 16px 20px;
+}/*#DIV_296*/
+
+#A_297 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    pointer-events: none;
+    speak: none;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#A_297*/
+
+#IMG_298 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 24px;
+    pointer-events: none;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 120px;
+    perspective-origin: 60px 12px;
+    transform-origin: 60px 12px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#IMG_298*/
+
+#IMG_299 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: none;
+    height: 28px;
+    pointer-events: none;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 213px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+}/*#IMG_299*/
+
+#UL_300 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 1029px;
+    pointer-events: none;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 230.141px;
+    perspective-origin: 115.063px 514.5px;
+    transform-origin: 115.063px 514.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 11px 0px;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px;
+}/*#UL_300*/
+
+#LI_301, #LI_303, #LI_305, #LI_307, #LI_309, #LI_312, #LI_314, #LI_316, #LI_318, #LI_320, #LI_323, #LI_325, #LI_327, #LI_330, #LI_332, #LI_334 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    height: 60px;
+    pointer-events: none;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 230.141px;
+    perspective-origin: 115.063px 30px;
+    transform-origin: 115.063px 30px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#LI_301, #LI_303, #LI_305, #LI_307, #LI_309, #LI_312, #LI_314, #LI_316, #LI_318, #LI_320, #LI_323, #LI_325, #LI_327, #LI_330, #LI_332, #LI_334*/
+
+#A_302, #A_304, #A_308, #A_313, #A_317, #A_321, #A_324, #A_328, #A_331, #A_335 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 60px;
+    letter-spacing: 0.5px;
+    pointer-events: none;
+    position: relative;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    width: 230.141px;
+    perspective-origin: 115.063px 30px;
+    transform-origin: 115.063px 30px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 500 normal 14px / 18px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 16px 16px 26px;
+    transition: color 0.15s ease-in 0s;
+}/*#A_302, #A_304, #A_308, #A_313, #A_317, #A_321, #A_324, #A_328, #A_331, #A_335*/
+
+#A_306, #A_310, #A_315, #A_326, #A_333 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 60px;
+    letter-spacing: 0.5px;
+    pointer-events: none;
+    position: relative;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    width: 230.141px;
+    perspective-origin: 115.063px 30px;
+    transform-origin: 115.063px 30px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 500 normal 14px / 18px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 16px 16px 26px;
+    transition: color 0.15s ease-in 0s;
+}/*#A_306, #A_310, #A_315, #A_326, #A_333*/
+
+#LI_311, #LI_322 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    height: 1px;
+    pointer-events: none;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 230.141px;
+    perspective-origin: 115.063px 0.5px;
+    transform-origin: 115.063px 0.5px;
+    background: rgb(220, 220, 220) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 11px 0px;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+}/*#LI_311, #LI_322*/
+
+#A_319 {
+    box-sizing: border-box;
+    color: rgb(117, 117, 117);
+    cursor: pointer;
+    display: block;
+    height: 60px;
+    letter-spacing: 0.5px;
+    pointer-events: none;
+    position: relative;
+    speak: none;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    width: 230.141px;
+    perspective-origin: 115.063px 30px;
+    transform-origin: 115.063px 30px;
+    border: 0px none rgb(117, 117, 117);
+    font: normal normal 500 normal 14px / 18px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(117, 117, 117) none 0px;
+    padding: 16px 16px 26px;
+    transition: color 0.15s ease-in 0s;
+}/*#A_319*/
+
+#LI_329 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: block;
+    height: 1px;
+    pointer-events: none;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 230.141px;
+    perspective-origin: 115.063px 0.5px;
+    transform-origin: 115.063px 0.5px;
+    background: rgb(220, 220, 220) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 11px 0px;
+    outline: rgb(33, 33, 33) none 0px;
+    overflow: hidden;
+}/*#LI_329*/
+
+
+
+
+
+
+#imagenes1 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 543px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 100%;
+    z-index: 1;
+    perspective-origin: 631.5px 271.5px;
+    transform-origin: 631.5px 271.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+}/*#DIV_1*/
+
+#imagenes2 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    height: 543px;
+    max-width: 1044px;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 1044px;
+    perspective-origin: 522px 271.5px;
+    transform-origin: 522px 271.5px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 109.5px;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 0px 85px;
+}/*#DIV_2*/
+
+
+#imagenes4 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: table-cell;
+    height: 458px;
+    max-width: 230px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 148px;
+    perspective-origin: 74px 229px;
+    transform-origin: 74px 229px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 20px;
+}/*#DIV_4*/
+
+
+#DIV5_6 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    height: 101px;
+    max-width: 180px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 108px;
+    perspective-origin: 54px 50.5px;
+    transform-origin: 54px 50.5px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: all 0.2s linear 0s;
+}/*#DIV_6*/
+
+#IMG5_7 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 101px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 108px;
+    z-index: 10;
+    perspective-origin: 54px 50.5px;
+    transform-origin: 54px 50.5px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: opacity 0.2s ease-out 0.2s;
+}/*#IMG_7*/
+
+#IMG5_8 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: none;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 100%;
+    z-index: 100;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: opacity 0.2s ease-out 0s;
+}/*#IMG_8*/
+
+#DIV5_9 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 108px;
+    z-index: 100;
+    perspective-origin: 54px 0px;
+    transform-origin: 54px 0px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: opacity 0.2s ease-out 0s;
+}/*#DIV_9*/
+
+
+#DIV5_13 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: table-cell;
+    height: 458px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 98px;
+    perspective-origin: 49px 229px;
+    transform-origin: 49px 229px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 20px;
+}/*#DIV_13*/
+
+#DIV5_15 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    height: 112px;
+    max-width: 130px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 58px;
+    perspective-origin: 29px 56px;
+    transform-origin: 29px 56px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: all 0.2s linear 0s;
+}/*#DIV_15*/
+
+#IMG5_17 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 112px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 58px;
+    z-index: 100;
+    perspective-origin: 29px 56px;
+    transform-origin: 29px 56px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: opacity 0.2s ease-out 0s;
+}/*#IMG_17*/
+
+#P5_18 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: inline-block;
+    height: 48px;
+    letter-spacing: 0.5px;
+    speak: none;
+    text-align: center;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 57.8594px;
+    perspective-origin: 28.9219px 24px;
+    transform-origin: 28.9219px 24px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 500 normal 14px / 16px Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(106, 179, 68) none 0px;
+    padding: 32px 0px 0px;
+}/*#P_18*/
+
+#DIV5_19 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: table-cell;
+    height: 458px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 136px;
+    perspective-origin: 68px 229px;
+    transform-origin: 68px 229px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 20px;
+}/*#DIV_19*/
+
+#DIV5_21 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    height: 134px;
+    max-width: 220px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 96px;
+    perspective-origin: 48px 67px;
+    transform-origin: 48px 67px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: all 0.2s linear 0s;
+}/*#DIV_21*/
+#IMG5_23 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 134px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 96px;
+    z-index: 100;
+    perspective-origin: 48px 67px;
+    transform-origin: 48px 67px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: opacity 0.2s ease-out 0s;
+}/*#IMG_23*/
+
+
+#DIV5_25 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: table-cell;
+    height: 458px;
+    left: 24px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    text-align: center;
+    width: 318px;
+    perspective-origin: 159px 229px;
+    transform-origin: 159px 229px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 20px;
+}/*#DIV_25*/
+
+
+
+#DIV5_27 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    height: 173px;
+    max-width: 568px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 278px;
+    perspective-origin: 139px 86.5px;
+    transform-origin: 139px 86.5px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: all 0.2s linear 0s;
+}/*#DIV_27*/
+
+
+#IMG5_29 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 173px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 278px;
+    z-index: 100;
+    perspective-origin: 139px 86.5px;
+    transform-origin: 139px 86.5px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: opacity 0.2s ease-out 0s;
+}/*#IMG_29*/
+
+#DIV5_31 {
+    box-sizing: border-box;
+    color: rgb(33, 33, 33);
+    display: table-cell;
+    height: 458px;
+    left: 100px;
+    position: relative;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    width: 344px;
+    perspective-origin: 172px 229px;
+    transform-origin: 172px 229px;
+    border: 0px none rgb(33, 33, 33);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(33, 33, 33) none 0px;
+    padding: 0px 0px 0px 20px;
+    text-align: center;
+}/*#DIV_31*/
+
+#DIV5_33 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    float: right;
+    height: 407px;
+    max-width: 530px;
+    position: relative;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    width: 324px;
+    perspective-origin: 162px 203.5px;
+    transform-origin: 162px 203.5px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+    transition: all 0.2s linear 0s;
+}/*#DIV_33*/
+
+#IMG5_35 {
+    box-sizing: border-box;
+    color: rgb(106, 179, 68);
+    cursor: pointer;
+    display: block;
+    height: 407px;
+    left: 0px;
+    position: absolute;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    top: 0px;
+    width: 400%;
+    z-index: 100;
+    perspective-origin: 648px 203.5px;
+    transform-origin: 648px 203.5px;
+    border: 0px none rgb(106, 179, 68);
+    font: normal normal 300 normal 16px / 24px Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(106, 179, 68) none 0px;
+   
+}/*#IMG_35*/
+
